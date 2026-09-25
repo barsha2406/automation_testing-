@@ -1,0 +1,6 @@
+selenium>=4.20,<5
+pytest>=8,<9
+pytest-html>=4,<5
+webdriver-manager>=4,<5
+requests>=2.31,<3
+Pillow>=10,<13
